@@ -1,0 +1,9 @@
+public class clearLastI {
+    public static int lastIth(int n, int i){
+        int bitmask = ~0 << i;
+        return n&bitmask;
+    }
+    public static void main(String[] args) {
+        System.out.println(lastIth(15, 3));
+    }
+}

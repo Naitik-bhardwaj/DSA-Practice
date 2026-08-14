@@ -1,0 +1,4 @@
+Range sum normally 0(1) but using segment tree 0(logn);
+
+Range update o(n) - o(logn)
+
