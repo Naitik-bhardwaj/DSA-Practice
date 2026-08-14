@@ -43,3 +43,4 @@ public class rangeSum {
         System.out.println(getSum(arr, 2, 5));
     }
 }
+// 
