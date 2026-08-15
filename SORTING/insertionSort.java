@@ -20,5 +20,6 @@ public class insertionSort {
         int[] arr = {3,5,7,8,4,1};
         insertionS(arr);
         printArr(arr);
+        
     }
 }
